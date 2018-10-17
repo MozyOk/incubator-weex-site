@@ -8,9 +8,9 @@ version: 2.1
 
 <!-- toc -->
 
-## What is Weex?
+## Weex とは?
 
-> **Weex is a framework for building high-performance mobile applications with a modern web development experience.**
+> **Weex とはモダンなウェブ開発と同じように、ハイパフォーマンスなモバイルアプリケーションを構築するためのフレームワークです。**
 
 Weex enables developers to use modern web development experience to build Android, iOS, and web apps with a single codebase. In practice, you can use JavaScript and modern front-end frameworks to develop mobile apps after integrating the WeexSDK.
 
